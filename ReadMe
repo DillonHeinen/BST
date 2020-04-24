@@ -1,0 +1,6 @@
+Note: This tree should work for any standard c++ types, inclusive of those belonging to the standard library.
+Any user created types will need the comparison operators overloaded in order to function correctly with
+the binary search tree.
+
+1. Include BST312.h in program header.
+2. Compile with program utilizing binary search tree.
